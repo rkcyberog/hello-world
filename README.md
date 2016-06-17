@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi 
+Trying github abn open source that helps to work in team effectively. 
